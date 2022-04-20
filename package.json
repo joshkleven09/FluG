@@ -1,0 +1,12 @@
+{
+  "name": "flug",
+  "version": "0.0.1",
+  "main": "src/FluG.js",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "discord.js": "^13.6.0",
+    "fuse.js": "^6.5.3",
+    "node-cron": "^3.0.0"
+  },
+  "type": "module"
+}
